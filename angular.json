@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Drag"
+  "defaultProject": "Drag",
+  "cli": {
+    "analytics": "7ef2ae09-b65e-43a4-8ca4-cc22b3f841c2"
+  }
 }
